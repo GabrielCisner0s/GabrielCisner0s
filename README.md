@@ -33,7 +33,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/gabriel-alejandro-cisneros-37b9a4240/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gabriel-alejandro-cisneros-37b9a4240/"><img src="https://img.shields.io/badge/-GabrielCisner0s-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:gabrielns2025@gmail.com"><img src="https://img.shields.io/badge/-gabrielns2025@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/gabrielns2025/"><img src="https://img.shields.io/badge/-GabrielCisner0s__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100057352479056&locale=es_LA"><img src="https://img.shields.io/badge/-GabrielCisner0s-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
