@@ -17,7 +17,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,fastapi,godot,mysql,vscode,http,css,js,php,py,java,cpp,flask,eclipse,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,fastapi,godot,mysql,vscode,html,css,js,php,py,java,cpp,flask,eclipse,laravel&perline=3)](https://skillicons.dev)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
