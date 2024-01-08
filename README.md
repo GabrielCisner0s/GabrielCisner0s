@@ -10,7 +10,6 @@
 🎓 &nbsp;I am a programming student at the National University of Tucuman, Argentina.\
 🌱 &nbsp;I am currently learning Python and its frameworks.\
 ✍️ &nbsp;In my free time I create small video games in Godot..\
-💬 &nbsp;Don't hesitate to contact me. Whether it's programming issues... or Archeology hehe, I'm also studying that.\
 ✉️ &nbsp;You can shoot me an email at gabrielns2025@gmail.com!.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -19,15 +18,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=godot,mysql,vscode,html,css,php,py,java,netbeansl&perline=3)](https://skillicons.dev)
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
